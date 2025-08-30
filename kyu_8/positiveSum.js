@@ -7,5 +7,3 @@ function positiveSum(arr) {
     }, 0)
 }
 
-
-
