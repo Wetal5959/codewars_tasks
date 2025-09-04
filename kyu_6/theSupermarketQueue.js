@@ -13,4 +13,3 @@ function queueTime(customers, n) {
 }
 
 
-console.log(queueTime([5, 5, 4, 3, 2, 10], 2))
