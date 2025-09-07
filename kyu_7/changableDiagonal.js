@@ -11,7 +11,7 @@ function matrixDiagonal(matrix, value) {
         }
         return sum
     }
-    for (let i = 0; i < leng + value; i++) {
+    for (let i = 0; i < leng + value; i++)
         sum += matrix[i][i - value]
     }
     return sum
