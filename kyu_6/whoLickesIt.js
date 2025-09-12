@@ -14,6 +14,5 @@ function likes(names) {
     }
     if (nL > 3) {
         return `${names[0]}, ${names[1]} and ${nL - 2} others like this`
-    }
-}
+    }}
 
