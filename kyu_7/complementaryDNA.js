@@ -13,8 +13,6 @@ function dnaStrand(dna) {
         if (el === 'G') {
             return acc += 'C'
         }
-
     }, '')
-
 }
 
