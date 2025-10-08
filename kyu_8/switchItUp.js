@@ -8,8 +8,8 @@ const numberObject = {
     6 : "Six",
     7 : "Seven",
     8 : "Eight",
-    9 : "Nine"
+    9 : "Nine",
     0 : "Zero"
 }
-return numberObject[number]
+return numberObject[`${number}`]
 }
